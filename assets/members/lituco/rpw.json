@@ -1,0 +1,80 @@
+{
+    "a_pre_reading": {
+        "headings": "Student Perceptions of ChatGPT Use in a College Essay Assignment: Implications for Learning, Grading, and Trust in Artificial Intelligence",
+        "subheadings": [
+            "Introduction",
+            "Methodology",
+            "Results",
+            "Discussion",
+            "Conclusion"
+        ],
+        "description_of_visuals": [
+            "Table 1: Students’ Experience with ChatGPT before the Assessment ",
+            "Figure 1: Students’ perceptions of ChatGPT in assignment, context of learning, and trustworthiness prior to completing the assignment (blue) and (red) relative to",
+            "a midline (dotted line). Error bars represent +/− 1 SEM."
+        ]
+    },
+    "b_pre_reading": {
+        "k": [
+            "As far as I know, ChatGPT is a useful tool powered by artificial intelligence that helps people with a lot of tasks. These tasks can range from summarizing texts, asking for advice, or getting ideas for a certain topic.",
+            "I think that some students tend to rely on ChatGPT to do their school activities for them."
+        ],
+        "w": [
+            "Am I correct in believing that we, students, should not use ChatGPT for school since it can be a reason for cheating and laziness?",
+            "What are the advantages and disadvantages of using ChatGPT and how can it be used properly?"
+        ],
+        "l": [
+            "I was surprised to know that ChatGPT has learning benefits for students and the respondents actually recognized it as a valuable tool rather than a cheating tool.",
+            "I have learned that ChatGPT does not hinder student engagement and learning but instead complements it since it both integrated human and AI skills."
+        ]
+    },
+    "a_reading": {
+        "details_from_the_text": [
+            "Cadets are known to value honor as demonstrated by their adherence to the Honor Code: “We will not lie, steal, or cheat, nor tolerate among us anyone who does.” This code reflects the academy’s commitment to fostering an environment of integrity, honesty, and ethical conduct among its cadets.",
+            "While students recognized the learning value and improved essay quality facilitated by ChatGPT’s feedback, they also grappled with calibration issues between their initial expectations and the actual outcomes. This could be a double-edged sword for educators. On the one hand, engaged learning is a cornerstone of successful knowledge and skill acquisition and reviewing, critiquing, and editing papers are effective for engaged learning."
+        ],
+        "plausible_inferences": [
+            "This infers that the participants of the study, the USAFA cadets, are honest and will not likely lie in answering the survey or in sharing their thoughts regarding their use of ChatGPT.",
+            "“This could be a double-edged sword for educators” infers that using ChatGPT for feedback and grading can both cause positive and negative outcomes for educators."
+        ]
+    },
+    "b_reading": {
+        "technical_term": [
+            "Artificial Intelligence (AI)",
+            "Digital Classrooms",
+            "Large Language Models (LLMs)",
+            "Automated Feedback",
+            "Interactive Dialogues"
+        ],
+        "context_clues": [
+            "\"Artificial\" refers to something man-made rather than naturally occurring, while \"intelligence\" is the ability to learn and develop skills.",
+            "The research article mentioned that they seek more practical contributions for effectively integrating ChatGPT in both digital and physical classrooms. A digital classroom, which relies on virtual tools and online interactions, serves as an antonym to a physical classroom, where learning takes place in a traditional, in-person setting.",
+            "Engineering students found large language models (LLMs), such as those powering ChatGPT, helpful in a design project for a college engineering course and believe that these AI-driven models can positively transform education. LLMs are a type of artificial intelligence capable of understanding, translating, and generating text based on large datasets (Lee, 2023).",
+            "Automated systems operate through computers or machines without human assistance, while feedback refers to an evaluation or criticism of a performance.",
+            "ChatGPT was effectively leveraged to provide interactive dialogues with students to help them learn a new language, where interactive dialogues involve an exchange of ideas or information between communicators."
+        ],
+        "uses": [
+            "With the emerging technologies nowadays, I feel like Artificial Intelligence will continue to evolve over the years, which may result to less reliance on manual labor.",
+            "During the pandemic, teachers find ways to make their digital classrooms fun and engaging.",
+            "Large language models are used in order for computers to understand human responses.",
+            "Educators usually use automated feedback when the exam contains objective type questions, such as multiple-choice and true/false.",
+            "A sales representative engages people in interactive dialogues in order to know the customers’ preferences and wants."
+        ]
+    },
+    "c_reading": {
+        "topic": "The text, “Student Perceptions of ChatGPT Use in a College Essay Assignment: Implications for Learning, Grading, and Trust in Artificial Intelligence” discusses the perspectives, opinions, and experience of students in using ChatGPT in a College Essay Assignment. They were given an assignment in which they have to use ChatGPT to complete it and shared their thoughts on ChatGPT in learning and grading.",
+        "writers_opinion": "The researchers concluded that ChatGPT both has advantages and disadvantages. While it can be helpful in accomplishing various tasks, it should not cause lack of student effort or teaching oversight in grading. Therefore, a balanced and ethical use of AI tools is recommended.",
+        "support": [
+            "One of the respondents said, “Coolest assignment I’ve done to date. I think tools like ChatGPT will change our future and assignments like these are paramount to understanding the direction we want to take them.”",
+            "Figure 1 shows the respondents’ thoughts in ChatGPT when it comes to the difficulty, quality, learning value, and comfort taking responsibility they acquire when they used ChatGPT in an assignment.",
+            "Another respondent stated, ““I thought it was a great exposure to the technology that we are going to be seeing so much more of in the future! I recommend keeping this assignment, but I don’t recommend having ChatGPT grade it., indicating their trustworthiness in using ChatGPT for grading."
+        ]
+    },
+    "post_reading": {
+        "question_one": "They are researchers who are interested in learning more about ChatGPT, especially when used in the context of education and learning. They are curious in discovering the benefits and consequences in using AI tools such as ChatGPT in both grading and answering school assessments.",
+        "question_two": "Since they might have a bit of background in AI tools and its use in education, the possible biases the authors might have are their beliefs in how AI tools, such as ChatGPT are being used nowadays, especially in the context of using them in schoolwork.",
+        "question_three": "The purpose of the text is to know and understand the thoughts of students when using ChatGPT for a college essay assignment, as well as give information on how the use of ChatGPT can affect both students and teachers. Furthermore, they also discussed how it can affect the students’ overall learning. To accomplish their purpose, they did an analysis focusing on student perceptions of ChatGPT use in a college essay. They utilized both quantitative and qualitative methods by making the cadet respondents rate through a Likert scale and answer open-ended questions.",
+        "question_four": "If you’re like me who have little to no knowledge regarding computers, advanced technologies or STEM-related topics, it will be difficult to understand certain terminologies in the text. Some of the technical terms such as large language models (LLMs), thermodynamics, and others might be confusing for readers like me. This writing style will probably more suitable for those who are really interested in knowing more about ChatGPT itself and the technology or process behind it. However, I think that it is still beneficial for students and teachers to read the research since they were still able to explain the results very well.",
+        "question_five": "Yes, the style is suitable for the intended audience, which is likely educators, researchers, and students. The writing is formal and academic, which is appropriate for a research study discussing educational tools and student perceptions."
+    }
+}

@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang='en'>
+    <head>
+        <meta charset='utf-8'>
+        <meta name='viewport' content='width=device-width, initial-scale=1'>
+        <title>Contributions</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+        <script src='https://cdn.tailwindcss.com'></script>
+        <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+        <style>
+            .font-poppins {
+                font-family: "Poppins", sans-serif;
+            }
+        </style>
+    </head>
+    <body class="bg-zinc-900 text-white font-poppins">
+        <nav class="w-full p-4 md:flex block items-center justify-between bg-gradient-to-b from-black to-transparent" x-data="{
+            open : false
+        }" @click.outside="open = false">
+            <div class="flex items-center justify-between md:w-auto w-full">
+                <img src="assets/logo.png" class="w-32 h-16 object-cover">
+                <button class="md:hidden block" @click="open = !open">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+                    </svg>                  
+                </button>
+            </div>
+            <ul class="md:flex block items-center md:space-x-8 md:mt-0 mt-4" :class="{'hidden' : !open}" >
+                <li class="md:w-auto w-full md:border-0 md:my-0 my-2 md:p-0 p-2 rounded cursor-pointer md:hover:bg-transparent hover:bg-red-800">
+                    <a href="index.html">Home</a>
+                </li>
+                <li class="md:w-auto w-full md:border-0 md:my-0 my-2 md:p-0 p-2 rounded cursor-pointer md:hover:bg-transparent hover:bg-red-800">
+                    <a href="members.html">Members</a>
+                </li>
+                <li class="md:w-auto w-full md:border-0 md:my-0 my-2 md:p-0 p-2 rounded cursor-pointer md:hover:bg-transparent hover:bg-red-800">Contributions</li>
+                <li class="md:w-auto w-full md:border-0 md:my-0 my-2 md:p-0 p-2 rounded cursor-pointer md:hover:bg-transparent hover:bg-red-800">
+                    <a href="about.html">About</a>
+                </li>
+            </ul>
+        </nav>
+        <div class="max-w-5xl mx-auto px-4 py-2 mt-20 mb-10">
+            <h4 class="text-4xl text-center font-medium">Contributions</h4>
+            <div class="w-full grid md:grid-cols-4 grid-cols-2 gap-4 mt-14">
+                <div class="col-span-1" x-data="{ open : false }">
+                    <img src="assets/members/borja/borja.jpg" class="w-64 h-64 object-cover mx-auto rounded">
+                    <div class="flex items-center space-x-4 mx-auto justify-center">
+                        <button @click="open = !open" class="flex items-center space-x-4 mt-4">
+                            Aaron Paul Borja
+                            <template x-if="open">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 ease duration-200">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+                                </svg> 
+                            </template>
+                            <template x-if="!open">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 duration-200">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 15.75 7.5-7.5 7.5 7.5" />
+                                </svg>                                  
+                            </template>
+                        </button>                         
+                    </div>
+                    <ul x-show="open" class="text-sm text-gray-300 max-w-64 mx-auto mt-4" x-transition>
+                        <li class="mb-2">Coined the website name FEUFLIX.</li>
+                        <li class="mb-2">Submitted the individual reflection and completed his part in the group’s RPW and RRF, but did not submit the individual outputs.</li>
+                        <li class="mb-2">Accomplished assigned tasks, including individual outputs and group documents (RRF, RPW, and reflection).</li>
+                        <li class="mb-2">Contributed ideas for the final project.</li>
+                    </ul>
+                </div>
+
+                <div class="col-span-1" x-data="{ open : false }">
+                    <img src="assets/members/de-lara/del-lara.png" class="w-64 h-64 object-cover mx-auto rounded">
+                    <div class="flex items-center space-x-4 mx-auto justify-center">
+                        <button @click="open = !open" class="flex items-center space-x-4 mt-4">
+                            Samantha Mae De Lara
+                            <template x-if="open">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 ease duration-200">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+                                </svg> 
+                            </template>
+                            <template x-if="!open">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 duration-200">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 15.75 7.5-7.5 7.5 7.5" />
+                                </svg>                                  
+                            </template>
+                        </button>                         
+                    </div>
+                    <ul x-show="open" class="text-sm text-gray-300 max-w-64 mx-auto mt-4" x-transition>
+                        <li class="mb-2">Synthesized the group's reflection.</li>
+                        <li class="mb-2">Selected which RRF to feature on the website.</li>
+                        <li class="mb-2">Accomplished assigned tasks, including individual outputs and group documents (RRF, RPW, and reflection).</li>
+                        <li class="mb-2">Contributed ideas for the final project.</li>
+                    </ul>
+                </div>
+
+                <div class="col-span-1" x-data="{ open : false }">
+                    <img src="assets/members/flora/flora.PNG" class="w-64 h-64 object-cover mx-auto rounded">
+                    <div class="flex items-center space-x-4 mx-auto justify-center">
+                        <button @click="open = !open" class="flex items-center space-x-4 mt-4">
+                            Marielle Ashley Flora
+                            <template x-if="open">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 ease duration-200">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+                                </svg> 
+                            </template>
+                            <template x-if="!open">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 duration-200">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 15.75 7.5-7.5 7.5 7.5" />
+                                </svg>                                  
+                            </template>
+                        </button>                         
+                    </div>
+                    <ul x-show="open" class="text-sm text-gray-300 max-w-64 mx-auto mt-4" x-transition>
+                        <li class="mb-2">Designed the required graphics for the website.</li>
+                        <li class="mb-2">Created the FEUFLIX logo.</li>
+                        <li class="mb-2">Accomplished assigned tasks, including individual outputs and group documents (RRF, RPW, and reflection).</li>
+                        <li class="mb-2">Contributed ideas for the final project.</li>
+                    </ul>
+                </div>
+
+                <div class="col-span-1" x-data="{ open : false }">
+                    <img src="assets/members/lituco/lituco.JPG" class="w-64 h-64 object-cover mx-auto rounded">
+                    <div class="flex items-center space-x-4 mx-auto justify-center">
+                        <button @click="open = !open" class="flex items-center space-x-4 mt-4">
+                            Eirene Lituco
+                            <template x-if="open">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 ease duration-200">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+                                </svg> 
+                            </template>
+                            <template x-if="!open">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 duration-200">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 15.75 7.5-7.5 7.5 7.5" />
+                                </svg>                                  
+                            </template>
+                        </button>                         
+                    </div>
+                    <ul x-show="open" class="text-sm text-gray-300 max-w-64 mx-auto mt-4" x-transition>
+                        <li class="mb-2">Designed the required graphics for the website.</li>
+                        <li class="mb-2">Accomplished assigned tasks, including individual outputs and group documents (RRF, RPW, and reflection).</li>
+                        <li class="mb-2">Contributed ideas for the final project.</li>
+                    </ul>
+                </div>
+
+                <div class="col-span-1" x-data="{ open : false }">
+                    <img src="assets/members/paule/paule.JPG" class="w-64 h-64 object-cover mx-auto rounded">
+                    <div class="flex items-center space-x-4 mx-auto justify-center">
+                        <button @click="open = !open" class="flex items-center space-x-4 mt-4">
+                            Joaquin Benedict Paule
+                            <template x-if="open">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 ease duration-200">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+                                </svg> 
+                            </template>
+                            <template x-if="!open">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 duration-200">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 15.75 7.5-7.5 7.5 7.5" />
+                                </svg>                                  
+                            </template>
+                        </button>                         
+                    </div>
+                    <ul x-show="open" class="text-sm text-gray-300 max-w-64 mx-auto mt-4" x-transition>
+                        <li class="mb-2">Proofread all work or outputs.</li>
+                        <li class="mb-2">Accomplished assigned tasks, including individual outputs and group documents (RRF, RPW, and reflection).</li>
+                        <li class="mb-2">Contributed ideas for the final project.</li>
+                    </ul>
+                </div>
+
+                <div class="col-span-1" x-data="{ open : false }">
+                    <img src="assets/members/tigno/tigno.png" class="w-64 h-64 object-cover mx-auto rounded">
+                    <div class="flex items-center space-x-4 mx-auto justify-center">
+                        <button @click="open = !open" class="flex items-center space-x-4 mt-4">
+                            Carl Stephen Tigno
+                            <template x-if="open">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 ease duration-200">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+                                </svg> 
+                            </template>
+                            <template x-if="!open">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 duration-200">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 15.75 7.5-7.5 7.5 7.5" />
+                                </svg>                                  
+                            </template>
+                        </button>                         
+                    </div>
+                    <ul x-show="open" class="text-sm text-gray-300 max-w-64 mx-auto mt-4" x-transition>
+                        <li class="mb-2">Part of the website development team.</li>
+                        <li class="mb-2">Accomplished assigned tasks, including individual outputs and group documents (RRF, RPW, and reflection).</li>
+                        <li class="mb-2">Contributed ideas for the final project.</li>
+                    </ul>
+                </div>
+
+                <div class="col-span-1" x-data="{ open : false }">
+                    <img src="assets/members/wong/wong.jpg" class="w-64 h-64 object-cover mx-auto rounded">
+                    <div class="flex items-center space-x-4 mx-auto justify-center">
+                        <button @click="open = !open" class="flex items-center space-x-4 mt-4">
+                            Jenny Wong
+                            <template x-if="open">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 ease duration-200">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+                                </svg> 
+                            </template>
+                            <template x-if="!open">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 duration-200">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 15.75 7.5-7.5 7.5 7.5" />
+                                </svg>                                  
+                            </template>
+                        </button>                         
+                    </div>
+                    <ul x-show="open" class="text-sm text-gray-300 max-w-64 mx-auto mt-4" x-transition>
+                        <li class="mb-2">Leader</li>
+                        <li class="mb-2">Part of the website development team.</li>
+                        <li class="mb-2">Content Writing</li>
+                        <li class="mb-2">Delegated tasks to team members.</li>
+                        <li class="mb-2">Accomplished assigned tasks, including individual outputs and group documents (RRF, RPW, and reflection).</li>
+                        <li class="mb-2">Contributed ideas for the final project.</li>
+                        <li class="mb-2">Proofread all work or outputs.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang='en'>
+    <head>
+        <meta charset='utf-8'>
+        <meta name='viewport' content='width=device-width, initial-scale=1'>
+        <title>About</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+        <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+        <script src='https://cdn.tailwindcss.com'></script>
+        <style>
+            body {
+                background: linear-gradient(to right, red, black 10%, black 90%, red);
+            }
+            .font-poppins {
+                font-family: "Poppins", sans-serif;
+            }
+            
+            .marquee {
+                display: flex;
+                gap: 1rem;
+                animation: marquee 60s linear infinite;
+                width: max-content; 
+            }
+            
+            .marquee-2 {
+                display: flex;
+                gap: 1rem;
+                animation: marquee 70s linear infinite;
+                width: max-content; 
+            }
+
+            /* Keyframes for Continuous Loop */
+            @keyframes marquee {
+                from { transform: translateX(0); }
+                to { transform: translateX(-50%); } 
+            }
+        </style>
+    </head>
+    <body class="min-h-dvh text-white">
+        <nav class="w-full p-4 md:flex block items-center justify-between bg-gradient-to-b from-black to-transparent" x-data="{
+            open : false
+        }" @click.outside="open = false">
+            <div class="flex items-center justify-between md:w-auto w-full">
+                <img src="assets/logo.png" class="w-32 h-16 object-cover">
+                <button class="md:hidden block" @click="open = !open">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+                    </svg>                  
+                </button>
+            </div>
+            <ul class="md:flex block items-center md:space-x-8 md:mt-0 mt-4" :class="{'hidden' : !open}" >
+                <li class="md:w-auto w-full md:border-0 md:my-0 my-2 md:p-0 p-2 rounded cursor-pointer md:hover:bg-transparent hover:bg-red-800">
+                    <a href="index.html">Home</a>
+                </li>
+                <li class="md:w-auto w-full md:border-0 md:my-0 my-2 md:p-0 p-2 rounded cursor-pointer md:hover:bg-transparent hover:bg-red-800">
+                    <a href="members.html">Members</a>
+                </li>
+                <li class="md:w-auto w-full md:border-0 md:my-0 my-2 md:p-0 p-2 rounded cursor-pointer md:hover:bg-transparent hover:bg-red-800">
+                    <a href="contributions.html">Contributions</a>
+                </li>
+                <li class="md:w-auto w-full md:border-0 md:my-0 my-2 md:p-0 p-2 rounded cursor-pointer md:hover:bg-transparent hover:bg-red-800">
+                    <a href="about.html">About</a>
+                </li>
+            </ul>
+        </nav>
+        <div class="max-w-6xl mx-auto my-32">
+            <h1 class="text-center md:text-7xl text-5xl font-poppins font-semibold">Our final project is to create a Digital Reading Portfolio based on the lessons from Module 5.
+            </h1>
+        </div>
+        <div class="my-24 w-full overflow-hidden">
+            <div class="w-full overflow-hidden whitespace-nowrap relative ">
+                <div class="marquee">
+                    <img src="assets/members/de-lara/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/de-lara/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/flora/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/flora/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/lituco/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/lituco/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/paule/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/paule/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/tigno/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/tigno/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/de-lara/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/de-lara/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/flora/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/flora/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/lituco/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/lituco/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/paule/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/paule/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/tigno/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/tigno/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                </div>
+            </div>
+            <div class="w-full overflow-hidden whitespace-nowrap relative mt-8">
+                <div class="marquee-2">
+                    <img src="assets/members/paule/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/tigno/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/tigno/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/paule/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/flora/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/de-lara/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/de-lara/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/lituco/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/flora/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/lituco/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/tigno/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/de-lara/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/flora/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/de-lara/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/paule/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/tigno/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/flora/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/lituco/rrf-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/paule/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                    <img src="assets/members/lituco/rpw-thumbnail.png" class="rounded-lg shadow-lg w-full md:h-60 h-48 object-cover">
+                </div>
+            </div>
+        </div>
+        <div class="max-w-6xl mx-auto mb-24">
+            <h1 class="text-center md:text-7xl text-5xl font-poppins font-semibold">All these outputs were gathered and presented on our Netflix-themed website,</h1>
+            <p class="text-center text-gray-400 text-2xl mt-4">Our website is a visually engaging and thoughtfully designed digital reading portfolio that showcases our academic journey in Language Enhancement and Proficiency (LEAP).</p>
+            
+            <div class="mt-24 mx-auto px-8">
+                <h1 class="text-4xl font-poppins font-semibold">Showcase</h1>
+                <p class="text-2xl font-medium mt-4 text-gray-300">Our website is a visually engaging and thoughtfully designed digital reading portfolio that showcases our academic journey in Language Enhancement and Proficiency (LEAP). </p>
+            </div>
+
+            <div class="mt-24 mx-auto px-8">
+                <h1 class="text-4xl font-poppins font-semibold">Compilation</h1>
+                <p class="text-2xl font-medium mt-4 text-gray-300">Inspired by Netflix, this platform presents our compiled works from Module 5, including assessments, reflections, and an analysis of a research article on ChatGPT’s impact on learning. </p>
+            </div>
+
+            <div class="mt-24 mx-auto px-8">
+                <h1 class="text-4xl font-poppins font-semibold">Engagement</h1>
+                <p class="text-2xl font-medium mt-4 text-gray-300">Through this project, we aimed to create an interactive and organized space that highlights our reading comprehension, critical thinking, and collaboration. </p>
+            </div>
+
+            <div class="mt-24 mx-auto px-8">
+                <h1 class="text-4xl font-poppins font-semibold">Invitation</h1>
+                <p class="text-2xl font-medium mt-4 text-gray-300">We invite you to explore our work and see the effort and creativity that went into building this portfolio!</p>
+            </div>
+        </div>
+    </body>
+</html>

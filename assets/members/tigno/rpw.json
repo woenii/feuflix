@@ -1,0 +1,77 @@
+{
+    "a_pre_reading": {
+        "headings": "This study looks at how students view ChatGPT before and after using it in education. It covers their expectations, concerns, and the benefits they think AI can bring to their learning",
+        "subheadings": [
+            "Pre- and Post-Student Perceptions",
+            "Trust and Comfort in Using ChatGPT",
+            "Quantitative and Qualitative Analyses"
+        ],
+        "description_of_visuals": [
+            "Table 1: Students' Perceptions of ChatGPT – Pre- and Post-Survey Comparison",
+            "Illustration: Average Scores on the Multidimensional Trust Scale"
+        ]
+    },
+    "b_pre_reading": {
+        "k": [
+            "ChatGPT is an AI-powered tool that generates text based on prompts. It helps with various writing tasks by providing relevant responses.",
+            "Its role in education, particularly in writing, is widely debated. People weigh its advantages and disadvantages for student writing skills."
+        ],
+        "w": [
+            "How do students assess the usefulness and practicality of ChatGPT in their assignments?",
+            "How do students’ views on AI ethics change after using these technologies?"
+        ],
+        "l": [
+            "Even with ChatGPT, students still found the assignment challenging. The difficulties remained, showing that the tool did not greatly simplify the writing process.",
+            "After using AI, students became more confident in its ethical and fair use. Their trust in its ability to make responsible decisions and support their work increased."
+        ]
+    },
+    "a_reading": {
+        "details_from_the_text": [
+            "The study showed that students were more likely to use ChatGPT if they trusted it and were generally comfortable with technology. Some saw it as reliable, while others were naturally more open to trusting AI tools. These factors heavily influenced their decision to rely on ChatGPT for help.",
+            "After the assignment, students felt more confident in ChatGPT’s ethical intentions and fairness. However, their views on its reliability and accuracy stayed the same. This suggests that while trust in its moral aspects improved, its perceived consistency and correctness did not change."
+        ],
+        "plausible_inferences": [
+            "Trust plays a big role in whether students choose to use AI tools. It includes both their general confidence in technology and their belief in ChatGPT’s reliability. These factors shape how they use AI in education and how it fits into their learning process.",
+            "Using ChatGPT firsthand probably made students more comfortable with it, especially in how it handles ethical issues. But they still had doubts about its accuracy. This shows why it’s important to double-check its responses, especially for academic work."
+        ]
+    },
+    "b_reading": {
+        "technical_term": [
+            "Trust Propensity",
+            "Perceived Trustworthiness",
+            "Ethical Alignment",
+            "Factual Precision",
+            "AI Integration"
+        ],
+        "context_clues": [
+            "Definition: Trust propensity reflects how likely students are to trust technological tools.",
+            "Synonym: Some saw it as reliable, while others were skeptical.",
+            "Description: Students felt more confident in ChatGPT’s ethical intentions and fairness.",
+            "Antonym: Concerns about accuracy and factual precision remain.",
+            "Examples: These factors shape how they use AI in education and how it fits into their learning process."
+        ],
+        "uses": [
+            "Students with a high trust propensity are more likely to rely on ChatGPT for academic assistance",
+            "The perceived trustworthiness of ChatGPT influences how much students depend on its responses",
+            "Ethical alignment ensures that AI tools operate within moral and responsible guidelines.",
+            "Without factual precision, AI-generated content can be misleading or incorrect.",
+            "Schools are exploring AI integration to improve personalized learning experiences."
+        ]
+    },
+    "c_reading": {
+        "topic": "The text, “Student Perceptions of ChatGPT Use in a College Essay Assignment: Implications for Learning, Grading, and Trust in Artificial Intelligence,” explores students' views and experiences with ChatGPT in a college essay assignment. It examines how they perceive its impact on learning, grading, and trust in AI.",
+        "writers_opinion": "The researchers found that ChatGPT has both benefits and drawbacks. It can assist with tasks, but it shouldn’t replace student effort or teacher oversight in grading. They recommend using AI tools in a balanced and ethical way",
+        "support": [
+            "One respondent described the assignment as the most interesting they had done, believing that tools like ChatGPT will shape the future. They emphasized that assignments like this are important for deciding how to use AI moving forward",
+            "Figure 1 illustrates respondents' views on ChatGPT regarding task difficulty, output quality, learning value, and their comfort in taking responsibility for their work when using it in an assignment.",
+            "Another respondent said the assignment was a good introduction to a technology that will become more common in the future. They supported keeping the assignment but did not trust ChatGPT for grading."
+        ]
+    },
+    "post_reading": {
+        "question_one": "The researchers focus on studying ChatGPT, particularly its role in education. They are interested in its benefits and drawbacks when used for grading and completing school assignments.",
+        "question_two": "Since the authors likely have some background in AI and its role in education, their biases may stem from their views on how tools like ChatGPT are currently used, particularly in academic settings.",
+        "question_three": "The text aims to explore students' thoughts on using ChatGPT for a college essay and how it impacts both students and teachers. It also examines its effects on overall learning. To achieve this, the researchers analyzed student perceptions using both quantitative and qualitative methods, including Likert scale ratings and open-ended responses.",
+        "question_four": "I was surprised to learn that technologies like ChatGPT don’t replace student and instructor engagement but actually support it. I used to think ChatGPT only encouraged laziness and cheating, but this changed my perspective. It made me see how AI tools can contribute to learning when used properly.",
+        "question_five": "Words like large language models (LLMs) and thermodynamics can be confusing. The writing style seems more suited for those interested in the technical side of ChatGPT. Still, the research is worth reading for students and teachers because the results are clearly explained."
+    }
+}

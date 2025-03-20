@@ -1,0 +1,92 @@
+{
+    "a_pre_reading": {
+        "headings": "Student Perceptions of ChatGPT Use in a College Essay Assignment: Implications for Learning, Grading, and Trust in Artificial Intelligence",
+        "subheadings": [
+            "Introduction",
+            "Generative",
+            "Method",
+            "Results",
+            "Conclusion",
+            "Appendix"
+        ],
+        "description_of_visuals": [
+            "A table summarizing students’ familiarity and previous use of ChatGPT before the assignment. A bar graph comparing students’ perceptions of ChatGPT before (red) and after (blue)",
+            "A table summarizing student comments on their experience using ChatGPT in an assignment, categorized into themes such as perspective changes, usability issues, and learning experiences.",
+            "A flowchart illustrating the writing process, highlighting the interaction between control levels, writing processes, and environmental influences."
+        ]
+    },
+    "b_pre_reading": {
+        "k": [
+            "ChatGPT is a computer program that can write or summarize text.",
+            "Others worry about cheating or the abuse of AI in schools.",
+            "ChatGPT-like artificial intelligence platforms are widely being adopted by universities and schools.",
+            "Material written by AI may be inaccurate at times."
+        ],
+        "w": [
+            "Do students believe that ChatGPT simplifies writing, or does it create additional problems?",
+            "Do students trust ChatGPT to mark their assignments accurately without a human moderator?",
+            "What is the disposition of instructors toward utilizing ChatGPT for college-level writing assignments?",
+            "What are some potential advantages to incorporating ChatGPT to enhance the learning and writing of students?"
+        ],
+        "l": [
+            "Students reported that ChatGPT didn't make writing simpler; instead, it transformed the entire nature of the assignment.",
+            "Students would like to have a mix of instructor and ChatGPT for grading, but not ChatGPT alone.",
+            "Students would like to have a mix of instructor and ChatGPT for grading, but not ChatGPT alone.",
+            "The release of ChatGPT created questions around equity and the role of artificial intelligence in learning and assessment.",
+            "Others believed ChatGPT might be used to brainstorm ideas but had to be supervised strictly to be accurate."
+        ]
+    },
+    "a_reading": {
+        "details_from_the_text": [
+            "This article examined student experiences before and after an essay writing assignment that required the use of ChatGPT within an undergraduate engineering course",
+            "Participants reported finding ChatGPT valuable for learning, and their comfort with its ethical and benevolent aspects increased postuse.",
+            "Concerns with ChatGPT included poor accuracy and limited feedback on the confidence of its output.",
+            "Students preferred instructors to use ChatGPT to help grade their assignments, with appropriate oversight. They did not trust ChatGPT to grade by itself."
+        ],
+        "plausible_inferences": [
+            "Students had to incorporate ChatGPT into their essays.",
+            "Students' attitudes towards ChatGPT shifted from viewing it as a cheating agent to viewing it as a shared tool that needs human monitoring and tuned trust.",
+            "ChatGPT did not simplify writing, but it altered the student learning experience.",
+            "ChatGPT has the potential to give students instant and tailored feedback, adaptable learning, and accessibility."
+        ]
+    },
+    "b_reading": {
+        "technical_term": [
+            "Artificial Intelligence (AI)",
+            "ChatGPT",
+            "Perceptions",
+            "Ethical concerns",
+            "Large Language Model (LLM)"
+        ],
+        "context_clues": [
+            "Definition: The text directly defines AI as a technology that enables machines to simulate human intelligence.",
+            "Example: The text mentions ChatGPT as an example of AI that assists with generating written content.",
+            "Synonym: The text uses words like opinions and viewpoints to clarify the meaning of perceptions.",
+            "Description: The text explains that ethical concerns relate to issues of honesty and fairness when using AI tools.",
+            "Description: The text describes \"LLM\" as an AI model trained on vast text data, capable of generating human-like text."
+        ],
+        "uses": [
+            "Artificial Intelligence is revolutionizing the manner in which we are accomplishing everyday tasks.",
+            "Most students utilize ChatGPT to generate ideas for their essays.",
+            "The perception of AI by people is either positive or negative based on its application.",
+            "Educators have ethical concerns regarding students using artificial intelligence to prepare assignments.",
+            "Large language models are trained on vast amounts of text data and can generate human-like text."
+        ]
+    },
+    "c_reading": {
+        "topic": "The advent of AI tools such as ChatGPT has made a huge impact on college life, and students are ambivalent about using it for essay work. Some students adore how ChatGPT assists them in brainstorming ideas, correcting grammar errors, and being less anxious about writing. Others, however, fear that relying too heavily on AI could prevent them from actually learning and thinking for themselves. Several question if it is ethical when some students utilize ChatGPT frequently and others don't, fearing cheating and uneven benefits. Confidence in ChatGPT is divided — while some view it as a useful reference, others are hesitant because it can provide incorrect information or raise privacy concerns. Ultimately, students conclude that though ChatGPT can be helpful, one has to use it cautiously so that learning is assisted without making things unjust.",
+        "writers_opinion": "The author believes that ChatGPT can be a good resource for students to utilize when writing but is highly concerned with honesty, learning, and fairness in school. Positively, ChatGPT could facilitate easier writing by assisting students with ideas, structuring thoughts, and preventing grammatical errors. This would be wonderful for students who are not good writers or question whether or not they could write well. The writer is concerned, however, that if students use ChatGPT a lot, they may submit work that is not necessarily their own, which is not ideal for honesty and true learning. Essays are meant to challenge students to think, to argue, and to learn to express their thoughts in words—something they might not be able to practice if they have AI do it all. The writer is also concerned with equality because students using ChatGPT to write most essays might have an unfair advantage over others who try to do the work independently. This could make it harder for teachers to grade fairly and could cause stress among peers. So, the writer can see the benefit of ChatGPT, but thinks that it needs to be done in moderation and not so much so that students are really learning and everyone gets treated fairly.",
+        "support": [
+            "Some students used ChatGPT to brainstorm and improve grammar, but others feared it might replace critical thinking",
+            "Many students questioned how fair it would be for grafing if AI-generated essays were submitted alongside original ones",
+            "The study highlighted a lack of trust in AI-generated content, especially regarding accuracy and originality."
+        ]
+    },
+    "post_reading": {
+        "question_one": "The author is affiliated with an academic institution and involved in educational research, giving them authority to study students' perceptions in academic settings. Their role as a researcher in education and AI integration lends credibility to their analysis.",
+        "question_two": "Since the author is part of an academic institution, they might have a bias toward maintaining academic integrity and may view AI tools like ChatGPT with caution. They might emphasize the potential risks of AI more than its benefits due to concerns over plagiarism and learning outcomes.",
+        "question_three": "The purpose of the text is to explore how students perceive ChatGPT's role in college essay writing and its impact on learning and grading. The author uses student survey responses, direct quotes, and analysis of students’ experiences as evidence to support the main idea.",
+        "question_four": "I was surprised that some students trust AI tools like ChatGPT more than their own writing abilities. This challenges the idea that students always prefer to write originally and highlights a growing dependence on AI-generated content, raising questions about future learning habits.",
+        "question_five": "Yes, the style is suitable for the intended audience, which is likely educators, researchers, and students. The writing is formal and academic, which is appropriate for a research study discussing educational tools and student perceptions."
+    }
+}

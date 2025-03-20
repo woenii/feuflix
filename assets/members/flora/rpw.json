@@ -1,0 +1,84 @@
+{
+    "a_pre_reading": {
+        "headings": "Student Perceptions of ChatGPT Use in a College Essay Assignment: Implications for Learning, Grading, And Trust in Artificial Intelligence",
+        "subheadings": [
+            "Introduction",
+            "Methodology",
+            "Results",
+            "Discussion",
+            "Conclusion",
+            "Appendix",
+            "References"
+        ],
+        "description_of_visuals": [
+            "Table 1: Students Experience with ChatGPT before the Assignment",
+            "Table II: Measurement of Perceived Assignment Difficulty anduality"
+        ]
+    },
+    "b_pre_reading": {
+        "k": [
+            "As far as i know, the use of ChatGPT and other AI tools are very commonly used nowadays since pretty much a lot of students use AI as their guide or a tool to accomplish a specific task without even working hard on it. However, with the results of using AI tools there are a lot of concerns regarding it since it can cause plagiarism, having a misunderstanding whether the work is an AI tool base or a human tool base."
+        ],
+        "w": [
+            "Is it true that using ChatGPT helps the students improve their academic skills?",
+            "I wonder whether students who use ChatGPT can learn from it in a positive way, such as helping them improve their vocabulary, structure of the text and even their critical thinking or does it simply help the student cheat by copying then paste without even understanding the text fully or even  use their own knowledge or  skills."
+        ],
+        "l": [
+            "i have learned that students have mixed perceptions on how they use an ai in their lives by using it as a helping tool or as a shortcut, but with a right mindset and understanding how ai really does work it’ll eventually realized the worth of using ai properly. "
+        ] 
+    },
+    "a_reading": {
+        "details_from_the_text": [
+            "Our results showed that ChatGPT did not make the writing assignment easy but changed it in ways that yielded perceived learning benefits for students.",
+            "The thematic analysis revealed a shift in student perception, evolving from viewing ChatGPT as a potential “cheating tool” to recognizing it as a collaborative resource requiring human oversight, technical aptitude, subject-area proficiency, and calibrated trust.",
+            "Students did not want to be evaluated on this assignment by ChatGPT alone, instead preferring to be graded by ChatGPT and the instructor together or by the instructor alone.",
+            "Students expressed that no student wanted to be graded by ChatGPT alone."
+        ],
+        "plausible_inferences": [
+            "This has become relevant to the point it changed how students approach AITools, by using it in ways they can be used by helping them structure sentences or think of an idea to inspire the students. With the help of Ai it can be a supporting tool but students still need to think critically and put in effort to do their own work.",
+            "This suggests that the students were taught on how to use AI Properly, as they see it as a helpful tool rather than just a way to take  shortcuts or even cheat.",
+            "This suggests that the students believe more on a human instructor who grades the works instead of an AIAlone since it doesn’t have the ability to fairly grade these students and it won’t be accurate when the results are shown.",
+            "The possible conclusion for this is that students feel more comfortable when a human instructor evaluates their work rather than relying entirely on AI."
+        ]
+    },
+    "b_reading": {
+        "technical_term": [
+            "Grading Automation",
+            "Qualitative Analysis",
+            "Artificial Intelligence",
+            "Algorithmic Bias",
+            "Automated Writing Evaluation"
+        ],
+        "context_clues": [
+            "Example: the AI tools that evaluate the students works instead of the teachers grading their students work.",
+            "Antonym: the opposite of quantitative which only focuses on description.",
+            "Example: ChatGPT, Gemini, SIri, Self-driving cars",
+            "Example: When AI is being used as an unfair tool",
+            "Example: By using Grammarly this helps by evaluating your written work and correcting it."
+        ],
+        "uses": [
+            "Many Universities had been using grading automation in terms of grading the students' work to speed up the process for online courses.",
+            "Qualitative analysis helps researchers understand the students opinion in terms of the use of AI tools.",
+            "Artificial intelligence has the ability to program computers or even machines or vehicles.",
+            "Algorithmic bias in hiring software can unfairly be used as a disadvantage  to its certain job application.",
+            "Many students had been using AWE to check for their essay before submitting it."
+        ]
+    },
+    "c_reading": {
+        "topic": "Student Perceptions of ChatGPT Use in a College Essay Assignment: Implications for Learning, Grading, And Trust in Artificial Intelligence",
+        "writers_opinion": "The Author believes that using an AI tool like ChatGPT in an essay writing can result to a lot of changes in it’s human  knowledge since using ai makes things easier but on the other hand, Some students also believe that using AI as a tool can enhance their learning by improving their on vocabulary but with a touch of using our own knowledge.",
+        "support": [
+            "According to the study, they have collected a lot of days from 24 students before and after using ChatGPT for essay writing.",
+            "In the results of the students, the majority of them trust an AI tool like ChatGPt in a positive way but there are some who don't trust it since due to an issue of using ai in a wrong way in terms of cheating and plagiarism.",
+            "While other students believe that they value ChatGPT as a way of learning, well, some don't trust AI in terms of recording their grades."
+        ]
+    },
+    "post_reading": {
+        "question_one": "According to the author, they are based on reliable institutions such as the United States Air Force Academy and the University of Alabama in Huntsville. Their research is also published in the IEEE Transactions on learning Technologies.",
+        "question_two": "The author might be biased towards structured learning and ethical concerns since they might go through their backgrounds in leadership and trust in their research based on their own skills since they want to emphasize the importance of human oversight in AI applications.",
+        "question_three": "It helps them undergo how students perceive and use ChatGPT in a real academic setting and to better understand the implications of Ai in education since they shouldn't rely much on ai. And the way the author accomplishes the purpose is by conducting surveys, analyzing the students' responses. And with the evidence that the author use is by using Statistical Analysis which shows how perceptions changed over time. And also Through surveys in ways how they use ai before and after the essay writing.",
+        "question_four": "I find it surprising to the part where students found ChatGPT ethical and helpful since it helps them improve, even though they still had concerns about accuracy. But with that, I can still see the use of ai in a positive way because it can really help us in different ways but we still have to be alert of not using ai in the wrong way since you should work hard on it.",
+        "question_five": "It fits perfectly since it shows a well-written work that includes the technical terms, statistical analyses, and references for the readers to see. With this, it helps more better understand the article itself since it's more broader."
+    }
+
+}

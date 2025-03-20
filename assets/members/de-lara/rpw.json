@@ -1,0 +1,72 @@
+{
+    "a_pre_reading": {
+        "headings": "”Student Perceptions of ChatGPT Use in a College Essay Assignment: Implications for Learning, Grading, And Trust in Artificial Intelligence”",
+        "subheadings": [
+            "Related Work",
+            "Importance of Student",
+            "Perception in Education",
+            "Current Study",
+            "Participants",
+            "Assignment"
+        ],
+        "description_of_visuals": [
+            "Fig. 1. Students’ perceptions of ChatGPT in assignment, context of learning, and trustworthiness prior to completing the assignment (blue) and (red) relative to a midline (dotted line). Error bars represent +/− 1 SEM",
+            "Fig. 2. Average scores on each dimension of the multidimensional trust scale. Error bars represent +/− 1 SEM."
+        ]
+    },
+    "b_pre_reading": {
+        "k": [
+            "As a creative, I am well aware about what generative AI is, as it has been an enormous dilemma for writers and artists alike to have their original work being stolen and fed to the AI’s codes in order so the AI can learn, without the consent of the original makers.",
+            "While ChatGPT is infamous for answering homeworks and assignments, it is also prolific in creating “art” and “writing” as well, generating content that is built off the backs of creatives.",
+            "Similar to this article, I find that using AI to do one’s work for them to be quite prevalent amongst my peers nowadays too."
+        ],
+        "w": [
+            "Are there ever going to be laws or policies implemented regarding the use of AI within fields that it should not be used for? I am concerned because I have read before that people have been using ChatGPT and the like to do their thesis papers for them, which is concerning for the academic field as a whole. "
+        ],
+        "l": [
+            "There are various ways on how students perceive AI, as some view it as a tool that helps them in making their homework and improving on them. While others do not completely trust a bot to completely grade their assignments and so on, preferring their teacher to overlook the grading with the help of the tool instead of the tool solely by it."
+        ]
+    },
+    "a_reading": {
+        "details_from_the_text": [
+            "“Although educators, researchers, and popular media have mixed feelings about AI-based technologies in education, it is less clear what students think. In early 2023, a survey of over 1000 undergraduate and graduate students revealed one in five students had used ChatGPT on their assignments and essays.”",
+            "“ChatGPT was effectively leveraged to provide interactive dialogues with students to help them learn a new language.”",
+            "“Participants also selected their grading preference among the instructor, ChatGPT alone, or a combination of the instructor with ChatGPT.”"
+        ],
+        "plausible_inferences": [
+            "From the initial premise of the article as well, it tells me that there are various perspectives of how ChatGPT and other generative AIs are perceived by people, whether it be those with high credentials or students that have used the tool themselves, there still are mixed answers.",
+            "I was reminded that I have seen other people use the tool before to learn a new language, such as Japanese and German. They have said that interacting with a bot and having a conversation with them in another language was helpful.",
+            "For this part of the survey, they wanted to know what the students prefer in what or who graded their assignments. This correlates to their trust of ChatGPT and its capabilities, as it is known that AI makes mistakes as well. "
+        ]
+    },
+    "b_reading": {
+        "technical_term": [
+            "Mixed-Methods Approach",
+            "Automated Grading Algorithms"
+        ],
+        "context_clues": [
+            "Example: “combining the strengths of quantitative and qualitative methods in education was used”",
+            "Example: “have been developed to assess student assignments, saving time for educators, and providing prompt feedback to learners.”"
+        ],
+        "uses": [
+            "For the study, the researches have decided to use a mixed-methods approach to study the topic.",
+            "There has been wariness amongst the students when automated grading algorithms were said to be involved."
+        ]
+    },
+    "c_reading": {
+        "topic": "”Student Perceptions of ChatGPT Use in a College Essay Assignment: Implications for Learning, Grading, And Trust in Artificial Intelligence”",
+        "writers_opinion": "The Author believes that using a tool such as ChatGPT can help assist students in their work, as the study shows that students enjoy the feedback that the bot provides them and they can provide their own human touch in their work as well. However, the rising concerns about both grading papers has been stated in the study as well.",
+        "support": [
+            "The study has gathered 24 students for a survey, in which their answers were then used to provide further insight on ChatGPT’s use in academic contexts.",
+            "While for the most part, students find the tool helpful in their students. However, there are some concerns regarding the issues of plagiarism and cheating done by using the bot.",
+            "In addition, they have also answered that they do not trust the bot to grade their assignments solely for them, and prefer that a professor would overlook it too."
+        ]
+    },
+    "post_reading": {
+        "question_one": "The author has studied in both the United States Air Force Academy and the University of Alabama in Huntsville, both reliable and reputable educational institutions. In addition to that, their works of research have also been published in the IEEE Transactions on learning Technologies.",
+        "question_two": "Due to the author’s background, there may be a possibility that they have placed too much criticism on ChatGPT and the notion that using such a tool is considered cheating.",
+        "question_three": "The purpose of the text is to find out the student’s perspectives on the use of AI such as ChatGPT for doing their homework. Through the study, they have conducted surveys to twenty-four participants and gathered the data to form a conclusion in the end. Supporting their main idea, is the results that they have received from said participants, in which it is all shown through numerous graphs in the study.",
+        "question_four": "The fact that a lot of students have found and relied on ChatGPT instead of doing their work on their own. I understand using it as a tool for feedback and improvement, but I expected a lot more wariness in using a technology like this.",
+        "question_five": "For casual readers who merely want to learn the latest news, the article is filled with too much jargon and complex terms that are laid around, and they may be discouraged from reading further because of it. However, for students and other scholars who are looking for research, this is perfectly suitable for their demographic to read. "
+    }
+}

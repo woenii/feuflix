@@ -1,0 +1,84 @@
+{
+    "a_pre_reading": {
+        "headings": "“Are we too dependent on technology?”",
+        "subheadings": [
+            "“Who needs knowledge?”",
+            "“Are there business costs on being too dependent on technology?”",
+            "“Digital Amnesia”"
+        ],
+        "description_of_visuals": [
+            "A picture of a robot holding different mechanical tools, signifying the use of technology.",
+            "A graph of memory retention and days of training."
+        ]
+    },
+    "b_pre_reading": {
+        "k": [
+            "I am aware that the fast dopamine release one experiences by relying on technology is an important factor that makes people overuse it.",
+            "Over-reliance on technology leads to a person’s own personal life falling apart due to spending too much time on it."
+        ],
+        "w": [
+            "I wonder how we can effectively combat this over-reliance as I’ve experienced and seen from other people how spending too much on it has negatively impacted their lives.",
+            "Are there any programs or help from trusted authorities available in order to mitigate or solve this issue?"
+        ],
+        "l": [
+            "The brain needs to be constantly challenged so it avoids slipping into “Digital Amnesia”, a term coined by Kaspersky in which it means that people find it harder to recall information as said information is readily available to them at a click of a button.",
+            "Relying on such technology like robots to perform surgeries has its cons. Such as existing surgeons might lose their touch and younger ones wouldn’t be able to train."
+        ]
+    },
+    "a_reading": {
+        "details_from_the_text": [
+            "\"I learned to do math in my head. I had my times tables up to 20 memorized and knew a slew of mental math tricks I could call upon to add, subtract, divide, or multiply any two numbers you threw at me.\"",
+            "\"Today, if you were to give me a relatively simple sum like 74 + 113 – my hand would instinctively delve straight into my pocket for my smartphone.\"",
+            "“I've become so dependent on technology to perform calculations (calculators, smartphones, spreadsheet software) that I've lost all confidence in my ability to perform even simple sums in my head.”",
+            "“But technology is, of course, the great enabler of the modern age. Cars, planes, Google, smartphones, computers, business software - it all makes us more efficient and less prone to errors.”"
+        ],
+        "plausible_inferences": [
+            "The author gained the skill to perform mathematical calculations without relying on technology. Traditionally, people memorized multiplication tables to speed up mental calculations. Through this experience, the writer developed math tricks on his own without the use of technology available in his time.",
+            "The author has become so reliant on technology that, when faced with simple tasks like basic calculations, their instinct is to reach for their phone. This suggests a shift away from using mental math skills in favor of depending on technology for even the simplest of tasks.",
+            "The author's over-reliance on technology has adversely affected their mental math skills, possibly leading to feelings of frustration or inadequacy.",
+            "The author acknowledges the considerable benefits and advantages of technology in modern society. The author identifies the efficiency improvements and lower error rates facilitated by technology."
+        ]
+    },
+    "b_reading": {
+        "technical_term": [
+            "Biometrics",
+            "Hippocampus",
+            "Digital Amnesia",
+            "Robotic Surgery",
+            "Diagnostics",
+            "Autonomous AI Systems"
+        ],
+        "context_clues": [
+            "\"bio\" means life or living organism and \"metrics\" means measurement. Biometrics refers to the measurement and statistical analysis of people's unique physical and behavioral characteristics.",
+            "Description: The hippocampus is a brain region involved in memory and navigation. Using GPS reduces the need for the hippocampus to memorize routes, essentially \"turning it off.\"",
+            "Description: Digital amnesia is described as a condition where reliance on technology, like smartphones storing phone numbers, causes a loss in memory. People increasingly forget information they would have once remembered because they depend on devices to recall it, leading to a loss of memory skills over time. This phenomenon demonstrates how technology affects our ability to retain and recall information independently.",
+            "Description: Robots are now commonly utilized to perform surgeries in hospitals.",
+            "Description: Something similar is happening in the world of diagnostics\" - This context implies the process of identifying and determining the nature of a disease or other medical condition.\"",
+            "Description: Autonomous AI systems have a massive potential to improve healthcare productivity\" - This phrase refers to artificial intelligence systems that can operate independently without human intervention."
+        ],
+        "uses": [
+            "Biometric features, such as fingerprint and facial recognition, have become standard on modern devices for ensuring security and privacy.",
+            "The hippocampus plays an important part in memory formation and spatial orientation, allowing us to remember routes and exact locations.",
+            "Due to my reliance on storing passwords in my notes app, I've started forgetting them. I no longer make the effort to memorize them, and now I experience digital amnesia, relying on my phone instead of my memory.",
+            "Robotic surgery provides numerous benefits compared to traditional open surgery, such as less pain, shorter hospital stays, and quicker recovery.",
+            "The physician requested a series of diagnostic tests to identify the cause of the patient's symptoms.",
+            "Autonomous AI systems are being increasingly utilized across various fields, including self-driving cars and fraud detection."
+        ]
+    },
+    "c_reading": {
+        "topic": "The text, \"Are we too dependent on technology?\", shows how today’s modern society pretty much relies on technologies which affect our basic human skills. The author mentioned that while technology makes tasks easier for us, it also weakens our basic skills like mental math including navigation and memorization skills. Even in healthcare, the overuse of advanced tools may cause doctors to lose their professional hands-on skills. The article wants to maintain the need to balance the use of technology with maintaining our human natural abilities.",
+        "writers_opinion": "The writer believes that we are very much dependent on technology. From computing simple arithmetic problems on our phones to performing surgeries using automated machines, he says that we are relying too much on technology. Therefore, we should be more cautious and aware of the potential impacts of over-dependence and over-reliance on technology.",
+        "support": [
+            "The first evidence that supports the writer’s opinion was his reliance on his phone in solving simple math problems. According to him, he would automatically get his phone when he is asked to get the simple sum of 74 + 113. This shows that even in solving simple math problems, we tend to use our phones and rely on them to do the job for us. Additionally, he also stated that he has forgotten most of the multiplication tables and mental math tricks that he learned when he was young.",
+            "Another is the ability to remember people’s phone numbers. According to the data provided by the author, “In 2015, 70% of people could recall their partner’s phone number, but in 2019, the number of people decreased to 60%.” This data also shows that our ability to retain and recall information decreases as we continuously depend on technology. This is connected with his explanation in the previous paragraphs that if we do not regularly exercise and challenge our own brains to do certain tasks, it becomes weak and unhealthy, resulting in loss of focus, as well as challenges in our ability to think and remember.",
+            "Lastly, he also added that robots and AI are being used to perform surgery, diagnoses, and other medical operations. This might be helpful according to some doctors, however, there are also risks in doing so, such as trainee surgeons not being able to perform manual surgery in the future or having little knowledge in saving and treating patients."
+        ]
+    },
+    "post_reading": {
+        "question_one": "Terry Brown has over 30 years of experience in tech related industries, which gives him a strong foundation to discuss the impact of technology on our lives. While he’s not a scientist or researcher, his background in IT service, enterprise security, and other technology driven fields makes his insights and opinion more valuable. Since he’s been in the industry for so long, he’s probably already witnessed firsthand how technology has changed how we function daily, which adds credibility to his perspective.",
+        "question_two": "The author, Terry Brown, appears to be a technology writer or journalist rather than a neuroscientist or psychologist. If the author works for a media company or a publication that benefits from discussions about technology and its impact, they might have a bias toward presenting the topic in a way that generates debate or concern. The article could be influenced by a desire to engage readers emotionally by highlighting the downsides of technology dependence rather than providing a completely balanced view. Additionally, if the author has personal experiences with technology dependence, their perspective may be shaped by those experiences rather than objective research.",
+        "question_three": "The purpose of the text is to explore whether society has become too dependent on technology and to encourage readers to reflect on their own reliance on digital tools. The author accomplishes this by using a mix of personal anecdotes, expert opinions, scientific studies, and rhetorical questions. The tone is both informative and slightly cautionary, prompting readers to consider the potential negative effects of technology on cognitive function.",
+        "question_four": "What really stood out to me was the idea that using GPS too much can actually cause parts of the brain to \"switch off,\" specifically the hippocampus, which is responsible for navigation and memory. I had never thought about it this way before. I always assumed that technology simply made things easier without any real downside, but now that I think about it, I do rely on Google Maps even for places I’ve been to multiple times, which means I’m not exercising my natural ability to remember directions. It’s a little concerning to realize that something so convenient could actually be weakening an important cognitive skill.",
+        "question_five": "The writing style is casual and engaging, which I appreciated. The author uses personal anecdotes and humor to make the topic relatable, and I think that’s what makes the article effective for us readers. Instead of just listing facts or research findings, he connects them to real life experiences, which makes me reflect on my own dependence on technology. It’s written for a general audience rather than experts, but it still includes research-backed points, making it both easy to read and informative."
+    }
+}
